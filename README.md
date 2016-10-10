@@ -20,7 +20,7 @@ __CI :__ <https://main.bosh-ci.cf-app.com/teams/main/pipelines/config-server> <b
 
 ## API 
 
-- ___GET /v1/data/&lt;some-key-path>___
+- GET /v1/data/&lt;some-key-path>
   
   Used by Director to retrieve a value from the config server. Value can an be any valid JSON object.
     
