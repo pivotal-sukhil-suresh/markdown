@@ -47,7 +47,7 @@ __CI :__ <https://main.bosh-ci.cf-app.com/teams/main/pipelines/config-server> <b
   ```
   {"type": "certificate", "parameters": {"common_name": "bosh.io", "alternative_names": ["blah.bosh.io", "10.0.0.6"]}}
   ```
-
+---
 See [Sample Requests & Responses](https://github.com/cloudfoundry/config-server/blob/master/docs/sample-requests-responses.md)
 
 See [Bosh Notes](https://github.com/cloudfoundry/bosh-notes/blob/master/config-server.md) for more information
