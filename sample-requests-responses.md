@@ -37,7 +37,7 @@ curl -k -X POST https://localhost:8080/v1/data/passwd -d '{"type":"password"}'
 
 - Response:
 
-    Status **201** for first time generation. Status **200** for subsequent requests.
+    Status **201** for first time request. Status **200** for subsequent requests.
 
     ```
 {
