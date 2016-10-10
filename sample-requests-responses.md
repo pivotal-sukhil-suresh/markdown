@@ -1,5 +1,5 @@
 ## Sample Request / Responses
----
+
 ### Generate Certificate
 
 - Request:
