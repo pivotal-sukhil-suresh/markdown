@@ -1,7 +1,5 @@
 ## Config Server
 
-
-
 Job            | Status  
 :------------: | -------------
 Unit tests     | ![Resize icon][badge-test-unit] 
@@ -22,7 +20,7 @@ __CI :__ <https://main.bosh-ci.cf-app.com/teams/main/pipelines/config-server> <b
 
 ## API 
 
-- GET /v1/data/&lt;some-key-path>
+- ___GET /v1/data/&lt;some-key-path>___
   
   Used by Director to retrieve a value from the config server. Value can an be any valid JSON object.
     
